@@ -20,9 +20,6 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
-
-
-
 .sr-only {
 	position: absolute;
 	width: 1px;
@@ -120,6 +117,7 @@ header {
 }
 #balance div {
 	margin-bottom: 1.5rem;
+	box-shadow: 5px 5px 5px rgb(0 0 0 / 50%);
 }
 
 .card {
